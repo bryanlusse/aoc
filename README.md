@@ -33,10 +33,10 @@ git clone https://github.com/yourusername/advent-of-code-2023.git
 cd aoc
 ```
 
-2. Make sure you have `poetry` installed and install all dependencies using:
+2. Make sure you have `poetry` [installed](https://python-poetry.org/docs/#installing-with-the-official-installer) and install all dependencies using:
 
 ```bash
-poetry lock
+poetry config virtualenvs.in-project true && poetry shell
 poetry install
 ```
 
