@@ -1,4 +1,4 @@
-# Advent of Code 2023 - Day 4: Scratchcards
+# Advent of Code 2023 - Day 6: Wait For It
 
 🌟 **Happy Advent of Code!** 🎄✨
 
