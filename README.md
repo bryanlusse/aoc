@@ -26,6 +26,8 @@ Every day contains a readme with some comments about the challenge and the pytho
 
 ## 🚀 Getting Started
 
+> Disclaimer, the input and test files are not [allowed to be shared](https://adventofcode.com/2023/about) and are therefore not included in this repo. Please find them yourself at [Advent of Code](https://adventofcode.com/)
+
 1. Clone this repository to your local machine:
 
 ```bash
